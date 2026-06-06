@@ -2,9 +2,6 @@
 
 > Travail Pratique — Cloud Computing | ING2 · IAI Gabon · 2025–2026
 
-**Groupe n°4 :** FATOU Hassane · ADAMOU Youssouf · ISSAMBOU Jean Samuel  
-**Superviseur :** M. TAKOUMBO MBE Yvan — Ingénieur Informaticien, Enseignant IB
-
 ---
 
 ## 📋 Présentation
